@@ -13,6 +13,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de dife
 
 * [Lección 1 - Centro Medio o Mean Center](https://youtu.be/zryu1S_8h7E)
 * [Lección 2 - Elipse de Desviación Estándar](https://youtu.be/SeaklaCdmR0)
+* [Lección 3 - Vecino más Cercano](https://youtu.be/GgFShFb-KUc)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
