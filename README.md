@@ -16,6 +16,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de dife
 * [Lección 3 - Vecino más Cercano](https://youtu.be/GgFShFb-KUc)
 * [Lección 4 - KMeans](https://youtu.be/zgrjPBQjzI8)
 * [Lección 5 - DBSCAN](https://youtu.be/woGFpbvidJo)
+* [Lección 6 - Dijkstra](https://youtu.be/Rk5DZJwUhVM)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
